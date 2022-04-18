@@ -6,3 +6,9 @@ Project List:
 1. Passesnger counter app. 
 Learn how to import js script onto html. Basic button +=1 increment button and save button to reset the count and concatentate onto a string.
 
+
+Challenges List:
+
+1. - Basic render error message on button click
+   - Basic calculator using html buttons and js functions
+
