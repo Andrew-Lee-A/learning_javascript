@@ -6,6 +6,9 @@ Project List:
 1. Passesnger counter app. 
 Learn how to import js script onto html. Basic button +=1 increment button and save button to reset the count and concatentate onto a string.
 
+2. Black Jack web application
+Simple BlackJack application which utilisses loops, functions, objects, and the DOM 
+
 
 Challenges List:
 
